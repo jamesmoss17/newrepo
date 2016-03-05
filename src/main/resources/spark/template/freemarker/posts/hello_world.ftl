@@ -7,8 +7,8 @@
         <#include "../nav.ftl">
         <div class="container">
             <div class="row">
-                <h3>Hello World!</h3>
-                <p>This is a blog post!</p>
+                <h3>Does this work?</h3>
+                <p>This is a not a blog post!</p>
             </div>
           </div>
         </div>
