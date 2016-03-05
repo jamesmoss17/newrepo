@@ -1,0 +1,8 @@
+Picking a text editor
+
+After looking around for the best text editor I finaly decided that 
+VIM would be the best one to choose as i preffer the old school 
+style that it brings. 
+
+Also i choose VIM because i am not a peasant, hence not using emac.
+
