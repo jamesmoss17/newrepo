@@ -7,8 +7,8 @@
         <#include "../nav.ftl">
         <div class="container">
             <div class="row">
-                <h3>Dick fuck</h3>
-                <p>why doesnt this shit work</p>
+                <h3>Fnatic destroy LG</h3>
+                <p>Rip skins</p>
             </div>
           </div>
         </div>
