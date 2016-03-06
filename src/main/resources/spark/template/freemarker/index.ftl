@@ -13,7 +13,7 @@
         </div>
         <div class="container">
             <div class="row">
-                <div class="col-md-6">
+                <div class="col-md-8">
                     <h3>Here you will find all the posts i have made</h3>
                     <ul>
                         <li><a href="/posts/hello_world/">1st post</a></li>
