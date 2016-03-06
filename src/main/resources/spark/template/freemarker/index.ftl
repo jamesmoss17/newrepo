@@ -8,15 +8,15 @@
         <div class="jumbotron text-center">
             <div class="container">
                 <h1>My Blog</h1>
-                <p>This is a skeleton blog site written in Java (with Spark).</p>
+                <p>Welcome to my blog.</p>
             </div>
         </div>
         <div class="container">
             <div class="row">
                 <div class="col-md-6">
-                    <h3>I've written one blog post!</h3>
+                    <h3>Here you will find all the posts i have made</h3>
                     <ul>
-                        <li><a href="/posts/hello_world/">Hello World</a></li>
+                        <li><a href="/posts/hello_world/">1st post</a></li>
                     </ul>
             </div>
           </div>
