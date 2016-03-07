@@ -7,8 +7,8 @@
         <#include "nav.ftl">
         <div class="jumbotron text-center">
             <div class="container">
-                <h1><img src="https://45.media.tumblr.com/a07187c4edf804907e7cfb7acc144a51/tumblr_n9rmq4lnXv1te9khoo1_500.gif" alt="Computer man" style="width:500px;height:250px;"> <My Blog</h1> <img src="http://i.imgur.com/DbrhFoH.gif" alt="Computer man" style="width:150px;height:200px;"><img
-                <p>Welcome to my blog.</p>
+                <h1>My Blog</h1>
+                <p><img src="https://media.giphy.com/media/TeBpzQZRaBIC4/giphy.gif" alt="snoop" style="width:100px;height:150px;"><Welcome to my blog.> <img src="https://media.giphy.com/media/TeBpzQZRaBIC4/giphy.gif" alt="snoop" style="width:100px;height:150px;">/p>
             </div>
         </div>
         <div class="container">
@@ -16,7 +16,7 @@
                 <div class="col-md-8">
                     <h3>Here you will find all the posts i have made</h3>
                     <ul>
-                        <li><a href="/posts/hello_world/">1st post</a></li>
+                        <li><a href="/posts/hello_world/">1st post</a> </li>
                         
                     </ul>
             </div>
