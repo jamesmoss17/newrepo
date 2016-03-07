@@ -8,8 +8,10 @@
         <div class="jumbotron text-center">
             <div class="container">
                 <h1>My Blog</h1>
-                <p><img src="https://media.giphy.com/media/TeBpzQZRaBIC4/giphy.gif" alt="snoop" style="width:100px;height:200px;"   >           Welcome to my blog.    <img src="https://media.giphy.com/media/TeBpzQZRaBIC4/giphy.gif" alt="snoop" style="width:100px;height:200px;"></p>
-            </div>
+                <p>Welcome to my blog.</p>
+                <img src="https://media.giphy.com/media/TeBpzQZRaBIC4/giphy.gif" alt="snoop" style="width:100px;height:200px;" >
+		<img src="https://media.giphy.com/media/TeBpzQZRaBIC4/giphy.gif" alt="snoop"
+                style="width:100px;height:200px;"></p>
         </div>
         <div class="container">
             <div class="row">
