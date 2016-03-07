@@ -8,7 +8,7 @@
     .jumbotron .btn-primary:hover {
       background: #66ff00; }
   .jumbotron p {
-    color: #cc0000;
+    color: #66ff00;
     max-width: 75%;
     margin: 1em auto 2em; }
   .navbar + .jumbotron {
