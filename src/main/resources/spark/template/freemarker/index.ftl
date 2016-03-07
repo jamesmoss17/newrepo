@@ -8,7 +8,7 @@
         <div class="jumbotron text-center">
             <div class="container">
                 <h1>My Blog</h1>
-                <p><img src="https://media.giphy.com/media/TeBpzQZRaBIC4/giphy.gif" alt="snoop" style="width:100px;height:150px;"> Welcome to my blog.<img src="https://45.media.tumblr.com/a07187c4edf804907e7cfb7acc144a51/tumblr_n9rmq4lnXv1te9khoo1_500.gif" alt="Computer man" style="width:500px;height:250px;"></p>
+                <p><img src="https://media.giphy.com/media/TeBpzQZRaBIC4/giphy.gif" alt="snoop" style="width:100px;height:150px;"> Welcome to my blog.<img src="https://media.giphy.com/media/TeBpzQZRaBIC4/giphy.gif" alt="snoop" style="width:100px;height:150px;"></p>
             </div>
         </div>
         <div class="container">
